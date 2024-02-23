@@ -1,0 +1,2 @@
+# hgscm
+Mercurial Web SCM
