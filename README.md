@@ -17,5 +17,5 @@ Mercurial is a distributed version control system that facilitates tracking chan
 
 ## Usage
 
-1. Clone this repository to your local machine:
+1. docker push molero/hgweb:latest
 
